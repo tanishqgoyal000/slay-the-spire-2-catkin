@@ -195,4 +195,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Slay the Spire 2 · Updated 2026-11-18 · Shared under the MIT License*
+*Slay the Spire 2 · Updated 2026-11-19 · Shared under the MIT License*
